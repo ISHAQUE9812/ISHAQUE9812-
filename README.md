@@ -7,12 +7,11 @@
 
 ## 💼 About Me
 
-- 🧑‍💻 Passionate Frontend Developer with hands-on experience in building responsive, scalable, and engaging web applications
+ 🧑‍💻 Passionate Frontend Developer with hands-on experience in building responsive, scalable, and engaging web applications
 - ⚛️ I specialize in **React.js**, **Next.js**, **Tailwind CSS**, and **shadcn/ui**
 - 💬 Ask me about JavaScript, React best practices, animations with **GSAP**, and UI/UX design
 - 🌐 Currently diving deeper into **Next.js backend APIs**, **MongoDB**, and performance optimization
 - 🔗 All of my open-source projects are right here on GitHub
-
 ---
 
 ## 🛠️ Tech Stack
