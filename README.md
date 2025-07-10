@@ -50,6 +50,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/shadcn/ui-1E1E1E?style=for-the-badge&logo=radix-ui&logoColor=white" alt="shadcn/ui" />
   <img src="https://img.shields.io/badge/Framer_Motion-1A1A1A?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
 </p>
 
 ---
