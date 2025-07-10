@@ -36,7 +36,7 @@
 `HTML` `CSS` `JavaScript` `React.js` `Next.js` `Tailwind CSS` `shadcn/ui` `Framer Motion.js` `GSAP.js`
 
 **Backend:**  
-`Node.js`  `MongoDB` 
+`Node.js`  `MongoDB` `Next.js`
 
 **Tools & Platforms:**  
 `Git` `GitHub` `Vercel` `Figma` `Postman`
