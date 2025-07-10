@@ -13,6 +13,13 @@
 - 🌐 Currently diving deeper into **Next.js backend APIs**, **MongoDB**, and performance optimization
 - 🔗 All of my open-source projects are right here on GitHub
 ---
+## 🎓 Internship Experience
+
+- 🏢 Completed **6 months internship** in Frontend Development (React.js & Next.js)  
+- 📅 Internship Duration: [Start Date] to [End Date] (e.g., 10-Sep-2024 to 10-Mar-2025)  
+- 💼 Worked on real-world projects involving responsive UI, API integration, and performance improvements  
+- 🚀 Gained practical experience in team collaboration, agile workflow, and version control (Git/GitHub)
+---
 
 ## 🛠️ Tech Stack
 
