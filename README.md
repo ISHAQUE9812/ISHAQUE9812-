@@ -16,7 +16,7 @@
 ## 🎓 Internship Experience
 
 - 🏢 Completed **6 months internship** in Frontend Development (React.js & Next.js)  
-- 📅 Internship Duration: [Start Date] to [End Date] (e.g., 10-Sep-2024 to 10-Mar-2025)  
+- 📅 Internship Duration: [10-sep-2024] to [10-March-2025] (e.g., 10-Sep-2024 to 10-Mar-2025)  
 - 💼 Worked on real-world projects involving responsive UI, API integration, and performance improvements  
 - 🚀 Gained practical experience in team collaboration, agile workflow, and version control (Git/GitHub)
 ---
