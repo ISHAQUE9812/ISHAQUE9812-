@@ -1,5 +1,5 @@
-# ISHAQUE9812-
-# 👋 Hi there, I'm Shaikh Mohammed Ishaque Am Akram
+# ISHAQUE9812
+# 👋 Hi there, I'm Shaikh Mohammed Ishaque 
 
 🚀 **Frontend Developer** | React & Next.js  | Always Learning
 
