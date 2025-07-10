@@ -16,9 +16,18 @@
 ## 🎓 Internship Experience
 
 - 🏢 Completed **6 months internship** in Frontend Development (React.js & Next.js)  
-- 📅 Internship Duration: [10-sep-2024] to [10-March-2025] (e.g., 10-Sep-2024 to 10-Mar-2025)  
-- 💼 Worked on real-world projects involving responsive UI, API integration, and performance improvements  
-- 🚀 Gained practical experience in team collaboration, agile workflow, and version control (Git/GitHub)
+- 📅 Internship Duration: 10-Sep-2024 to 10-Mar-2025  
+- 🌐 Company Website: [eSourcing.in](https://www.esourcing.in/)  
+- 💼 Worked on real-world projects involving:
+  - Developing responsive, dynamic pages using **Next.js App Router**
+  - Creating reusable components with **Tailwind CSS** and **shadcn/ui**
+  - Handling forms and validations for seller onboarding and estore setup
+  - Integrating REST APIs for product management and dashboard data
+  - Adding engaging UI animations using **Framer Motion** and **GSAP**
+- 🚀 Gained practical experience in:
+  - Collaborating in agile teams
+  - Using Git/GitHub for version control
+  - Building scalable frontend for B2B web platforms
 ---
 
 ## 🛠️ Tech Stack
